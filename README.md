@@ -9,6 +9,8 @@
    <img alt="JavaScript" width="70px" height="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
    <img alt="React" width="70px" height="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
    <img alt="NodeJs" width="70px" height="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+   
+   ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=pygau14)
 
 <!---
 pygau14/pygau14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
