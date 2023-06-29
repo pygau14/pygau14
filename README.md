@@ -5,9 +5,9 @@
 
 <h3>About Me 🚀</h3>
 <h5 align="center">Introducing the marvelous MERN Wizard, yours truly, Gaurav Gupta! 🎉</h5>
-<p>🕸️ With my web development skills honed to perfection, I am a true virtuoso of the MERN Stack. I weave my magic on the internet canvas, crafting beautiful and functional websites with the elegance of a seasoned artisan. 💻</p>
+<p>🕸️ With my web development skills honed to perfection, I am a true virtuoso of the<strong>MERN Stack</strong> . I weave my magic on the internet canvas, crafting beautiful and functional websites with the elegance of a seasoned artisan. 💻</p>
 
-<p>🎓 Like a zillion others in India, I embarked on the grand adventure of Engineering. But oh, did I conquer the realm of numbers and formulas! Mathematics surrendered to my prowess, and problem-solving became my superpower. 🔢🦸‍♂️</p>
+<p>🎓 Like a zillion others in India, I embarked on the grand adventure of<strong> Engineering</strong>. But oh, did I conquer the realm of numbers and formulas! Mathematics surrendered to my prowess, and problem-solving became my superpower. 🔢🦸‍♂️</p>
 
 <p>🧩 In the midst of my academic Journey, I discovered an insatiable appetite for puzzles, riddles, and brain teasers. The allure of these enigmatic challenges captured my heart, propelling me towards the captivating worlds of chess and programming. ♟️💡</p>
 
