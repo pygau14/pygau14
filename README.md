@@ -4,7 +4,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/gaurav-gupta-b47a85185/"><img alt="LinkedIn" src="https://github.com/pygau14/pygau14/assets/76560967/20c23b31-79e1-47e2-85ad-c0ac3393208d"></a><img src="https://github.com/pygau14/pygau14/assets/76560967/3e7f97ab-99de-40ca-abc2-cf3f3563d3a6" alt="Gmail"></p>
 
 <h3>🚀 About Me </h3>
-<h5 align="center">Introducing the marvelous MERN Wizard, yours truly, Gaurav Gupta! 🎉</h5>
+<h5 align="center">Introducing the Marvelous MERN Wizard, Yours Truly, Gaurav Gupta! 🎉</h5>
 <p>🕸️ With my web development skills honed to perfection, I am a true virtuoso of the<strong> MERN Stack</strong> . I weave my magic on the internet canvas, crafting beautiful and functional websites with the elegance of a seasoned artisan. 💻</p>
 
 <p>🎓 Like a zillion others in India, I embarked on the grand adventure of<strong> Engineering</strong>. But oh, did I conquer the realm of numbers and formulas! Mathematics surrendered to my prowess, and problem-solving became my superpower. 🔢🦸‍♂️</p>
