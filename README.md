@@ -44,9 +44,21 @@
  <br />         
 <h3>👨‍💻 Experience<bold>||</bold>📂 Work Samples</h3>
 
+    🕵️‍♀️ Selenium + Java = UI testing ninja! Bugs didn't stand a chance! 💥
+
+    🚀 Rest Assured + Java = API testing maestro! Unleashed the power of smooth and reliable APIs! 🎉
+
+    🌐 Restful API's: Explored their depths like a digital Indiana Jones! No endpoint left untested! 🔎
+
+    🐙 Git, Github, and Jenkins: My superhero trio! Automated deployments with precision and flair! 🦸‍♀️
+
+    🎭 MounteBank: My mischievous sidekick! Mocking minions exposed system vulnerabilities, bugs trembled! 😈
+
+
+<h3></h3>
    
-   ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=pygau14)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pygau14)](https://github.com/pygau14/github-readme-stats)
+   ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=pygau14&show_icons=true&theme=radical)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pygau14&langs_count=8&layout=compact)
 
 <!---
 pygau14/pygau14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
