@@ -22,6 +22,7 @@
 <br />
 <br />
 <h3>🔧 Tech Stack Mastery: Tools, Frameworks, and Languages Commanded</h3>
+<br/>
 <p align="center">
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -56,6 +57,7 @@
 
 
 <h3>📈 GitHub History </h3>
+<br />
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
    
