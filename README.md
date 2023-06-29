@@ -11,7 +11,9 @@
 
 <p>🧩 In the midst of my academic Journey, I discovered an insatiable appetite for puzzles, riddles, and brain teasers. The allure of these challenges captured my heart, propelling me towards the worlds of Chess♟️ and <strong>Programming 💡.</strong>  </p>
 
-<p>🐍 Picture this: While the rest of my peers were busy buying pre-made projects, I fearlessly delved into the realm of Python.</p>
+<p>🐍 Picture this: While the rest of my peers were busy buying pre-made projects, I fearlessly delved into the realm of<strong> Python</strong>  back in my 12th Standard. I created a very basic banking app that showcased my budding skills. It may not have been the most advanced creation, but it was a proud moment for me. Little did I know that this humble beginning would pave the way for exciting opportunities later on.Fast forward eight years, and fate smiled upon me with a marvelous <strong>opportunity at inCred</strong> .  💪🚀</p>
+
+
 
 
 
