@@ -41,12 +41,8 @@
                  
 </p>
 
-          
-          
-
- 
-
-<h3>👨‍💻Experience and 📂Work Samples</h3>
+ <br />         
+<h3>👨‍💻 Experience<bold>||</bold>📂 Work Samples</h3>
 
    
    ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=pygau14)
