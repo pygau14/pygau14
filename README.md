@@ -44,6 +44,7 @@
 
  <br />         
 <h3>👨‍💻 Experience<bold>||</bold>📂 Work Samples</h3>
+<br />
 
     🕵️‍♀️ Selenium + Java = UI testing ninja! Bugs didn't stand a chance! 💥
 
