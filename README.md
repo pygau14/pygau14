@@ -55,7 +55,9 @@
     🎭 MounteBank: My mischievous sidekick! Mocking minions exposed system vulnerabilities, bugs trembled! 😈
 
 
-<h3></h3>
+<h3>GitHub History 📈</h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
    
    ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=pygau14&show_icons=true&theme=radical)
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pygau14&langs_count=8&layout=compact)
