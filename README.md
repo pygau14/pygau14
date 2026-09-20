@@ -40,12 +40,15 @@ Today, I specialize in the MERN stack and Next.js, building sub-millisecond quer
 ## 📈 Metrics, Education & Achievements
 
 **Academic & Security Credentials:**
-* **Education:** Studied Electronics and Communication Engineering at HKBK College of Engineering (2016 - 2021), completing coursework up to the 7th semester before transitioning into software development. <!--[cite: 1] --> Completed intermediate studies at St Froebel School. <!--[cite: 1] -->
+* **Education:** Studied Electronics and Communication Engineering at HKBK College of Engineering (2016 - 2021), completing coursework up to the 7th semester; degree incomplete as I did not sit for the 8th-semester exams, before transitioning fully into software development. <!--[cite: 1] --> Completed intermediate studies at St Froebel School. <!--[cite: 1] -->
 * **Certifications:** *Ethical Security Practices for Web-Based Application* (Internshala) – Focused on XSS, SQL injection mitigation, robust auth protocols, and secure data encryption. <!--[cite: 1] -->
 * **Achievements:** State Level Math Olympiad Gold Medalist and competitive Chess participant. <!--[cite: 1] -->
 
+### 📈 GitHub History 
 <br />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pygau14&show_icons=true&theme=radical)
+![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=pygau14&show_icons=true&theme=radical&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pygau14&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pygau14&langs_count=8&layout=compact&v=1)
