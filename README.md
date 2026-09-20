@@ -10,33 +10,19 @@
   <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
-I am a Senior Full-Stack & Distributed Backend Engineer[cite: 1] focused on designing highly scalable, secure, and event-driven architectures capable of handling massive throughput[cite: 1]. My journey into programming started in my 12th standard when I built a basic banking application in Python[cite: 1]. Driven by a deep-rooted love for mathematics and the strategic complexities of chess[cite: 1], I transitioned that analytical mindset into software engineering[cite: 1]. 
+I am a Senior Full-Stack & Distributed Backend Engineer focused on designing highly scalable, secure, and event-driven architectures capable of handling massive throughput[cite: 1]. My journey into programming started in my 12th standard when I built a basic banking application in Python. Driven by a deep-rooted love for mathematics and the strategic complexities of chess, I transitioned that analytical mindset into software engineering.
 
-Today, I specialize in the MERN stack and Next.js, building sub-millisecond query caches, asynchronous data pipelines, and zero-trust web platforms[cite: 1]. Whether it is architecting an end-to-end system for 1 million requests per second or locking down endpoints against OWASP vulnerabilities, I treat backend engineering as the ultimate puzzle[cite: 1].
+Today, I specialize in the MERN stack and Next.js, building sub-millisecond query caches, asynchronous data pipelines, and zero-trust web platforms[cite: 1]. Whether it is architecting an end-to-end system for 1 million requests per second or locking down endpoints against OWASP vulnerabilities, I treat backend engineering as the ultimate puzzle.
 
 ## 💼 Professional Experience & Projects
 
-**Trigyn Technologies (Deputed to NeGD) | Senior Software Developer** (Mar 2026 - Present)[cite: 1]
-* Implemented a monorepo architecture with shared backend libraries and build workflows across inter-ministerial government projects[cite: 1].
-* Engineered secure government workflows by integrating Darpan endpoints and configuring Parichay Single Sign-On (SSO) directly into an Express.js ecosystem.
-* Cut API latency and read loads significantly utilizing Redis caching and query optimization[cite: 1].
-* Hardened platform security via data encryption, OWASP mitigation, and vulnerability patching to meet stringent government standards[cite: 1].
-
-**Register Karo | Full Stack Developer** (Aug 2023 - Feb 2026)[cite: 1]
-* Built scalable web portals and administrative dashboards leveraging Next.js and the MERN stack[cite: 1].
-* Engineered Kafka and RabbitMQ pipelines for asynchronous processing and robust event-based workflows[cite: 1].
-* Orchestrated application deployments on AWS utilizing Docker, Kubernetes, and Jenkins CI/CD[cite: 1].
-
-**InCred Financial Services Ltd | Software Engineer** (Apr 2021 - Jun 2023)[cite: 1]
-* Developed a high-performance fintech application utilizing Next.js and the MERN ecosystem[cite: 1].
-* Managed automated data workflows with Airflow DAGs and orchestrated containerized AWS environments[cite: 1].
-* Integrated AWS Lambda services and utilized Kibana for extensive data visualization and analysis[cite: 1].
-
-**Newton School | Coding Bootcamp Intern** (Oct 2021 - Apr 2022)[cite: 1]
-* Mastered Full Stack Web Development and DSA, building full-scale clones of Netflix and Amazon[cite: 1].
+* **Trigyn Technologies (Deputed to NeGD) | Senior Software Developer** (Mar 2026 - Present)[cite: 1]: Implemented a monorepo architecture with shared backend libraries and build workflows across inter-ministerial government projects[cite: 1]. Engineered secure government workflows by integrating Darpan endpoints and configuring Parichay Single Sign-On (SSO) directly into an Express.js ecosystem. Cut API latency and read loads significantly utilizing Redis caching and query optimization[cite: 1]. Hardened platform security via data encryption, OWASP mitigation, and vulnerability patching to meet stringent government standards[cite: 1].
+* **Register Karo | Full Stack Developer** (Aug 2023 - Feb 2026)[cite: 1]: Built scalable web portals and administrative dashboards leveraging Next.js and the MERN stack[cite: 1]. Engineered Kafka and RabbitMQ pipelines for asynchronous processing and robust event-based workflows[cite: 1]. Orchestrated application deployments on AWS utilizing Docker, Kubernetes, and Jenkins CI/CD[cite: 1].
+* **InCred Financial Services Ltd | Software Engineer** (Apr 2021 - Jun 2023)[cite: 1]: Developed a high-performance fintech application utilizing Next.js and the MERN ecosystem[cite: 1]. Managed automated data workflows with Airflow DAGs and orchestrated containerized AWS environments[cite: 1]. Integrated AWS Lambda services and utilized Kibana for extensive data visualization and analysis[cite: 1].
+* **Newton School | Coding Bootcamp Intern** (Oct 2021 - Apr 2022)[cite: 1]: Mastered Full Stack Web Development and DSA, building full-scale clones of Netflix and Amazon[cite: 1].
 
 **Featured Architecture & System Projects:**
-* **Mobile APK Backend Engine:** Designed, built, and deployed a comprehensive 50-API micro-architecture on Render to facilitate seamless integration workflows for mobile frontend applications. 
+* **Mobile APK Backend Engine:** Designed, built, and deployed a comprehensive 50-API micro-architecture on Render to facilitate seamless integration workflows for mobile frontend applications.
 * **Payhub Payment Gateway System:** Developed an event-driven microservices backend utilizing Node.js, Express, Kafka, and Redis to handle async transactions, refunds, and vendor settlements[cite: 1].
 * **Lula Live Streaming Platform:** Built a real-time event-driven backend supporting Socket.IO billing, Agora token auth, Firebase notifications, and Razorpay monetization[cite: 1].
 * **Zipline Courier App Backend:** Created order processing and real-time package tracking APIs utilizing Express.js, MySQL, and Multer[cite: 1].
@@ -54,11 +40,11 @@ Today, I specialize in the MERN stack and Next.js, building sub-millisecond quer
 ## 📈 Metrics, Education & Achievements
 
 **Academic & Security Credentials:**
-* **Education:** Studied Electronics and Communication Engineering at HKBK College of Engineering (2016 - 2021) before pivoting full-time into software development, alongside intermediate studies at St Froebel School[cite: 1].
+* **Education:** Studied Electronics and Communication Engineering at HKBK College of Engineering (2016 - 2021)[cite: 1], completing coursework up to the 7th semester before transitioning directly into the tech industry. Also completed intermediate studies at St Froebel School[cite: 1].
 * **Certifications:** *Ethical Security Practices for Web-Based Application* (Internshala) – Focused on XSS, SQL injection mitigation, robust auth protocols, and secure data encryption[cite: 1].
 * **Achievements:** State Level Math Olympiad Gold Medalist and competitive Chess participant[cite: 1].
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pygau14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gaurav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pygau14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pygau14&show_icons=true&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pygau14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
