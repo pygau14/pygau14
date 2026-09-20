@@ -46,10 +46,6 @@ Today, I specialize in the MERN stack and Next.js, building sub-millisecond quer
 
 <br />
 
-<div align="center">
-
 ![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pygau14&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pygau14&langs_count=8&layout=compact)
-
-</div>
