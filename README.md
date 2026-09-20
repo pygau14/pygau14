@@ -1,72 +1,64 @@
-<p align="center"><img alt="Hello" src="https://camo.githubusercontent.com/2d97fc6917462d31a885631ec887824db6974df46eccea2ae131ff3ece798a0a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572"></p>
+## 🚀 Executive Summary & About Me
 
-<h2 align="center">Connect Me On <img alt="" height="30px" src="https://github.com/pygau14/pygau14/assets/76560967/fa1e4ab1-3b3e-4efc-ab60-f78b9cbb6b7d"></h2>
-<p align="center"><a href="https://www.linkedin.com/in/gaurav-gupta-b47a85185/"><img alt="LinkedIn" src="https://github.com/pygau14/pygau14/assets/76560967/20c23b31-79e1-47e2-85ad-c0ac3393208d"></a><img src="https://github.com/pygau14/pygau14/assets/76560967/3e7f97ab-99de-40ca-abc2-cf3f3563d3a6" alt="Gmail"></p>
-
-<h3>🚀 About Me </h3>
-<h5>CHECK THIS -><a href="https://64abddeecd4c9f02836ab513--lucky-pothos-6f3cc7.netlify.app/">My WebSite</a></h5>
-<h5 align="center">Introducing the Marvelous MERN Wizard, Yours Truly, Gaurav Gupta! 🎉</h5>
-<p>🕸️ With my web development skills honed to perfection, I am a true virtuoso of the<strong> MERN Stack</strong> . I weave my magic on the internet canvas, crafting beautiful and functional websites with the elegance of a seasoned artisan. 💻</p>
-
-<p>🎓 Like a zillion others in India, I embarked on the grand adventure of<strong> Engineering</strong>. But oh, did I conquer the realm of numbers and formulas! Mathematics surrendered to my prowess, and problem-solving became my superpower. 🔢🦸‍♂️</p>
-
-<p>🧩 In the midst of my academic Journey, I discovered an insatiable appetite for puzzles, riddles, and brain teasers. The allure of these challenges captured my heart, propelling me towards the worlds of Chess♟️ and <strong>Programming 💡.</strong>  </p>
-
-<p>🐍 Picture this: While the rest of my peers were busy buying pre-made projects, I fearlessly delved into the realm of<strong> Python</strong>  back in my 12th Standard. I created a very basic banking app that showcased my budding skills. It may not have been the most advanced creation, but it was a proud moment for me. Little did I know that this humble beginning would pave the way for exciting opportunities later on.Fast forward eight years, and fate smiled upon me with a marvelous <strong>opportunity at InCred</strong> .  💪🚀</p>
-
-<p>From a simple Python project in my 12th Standard to an exciting journey with inCred, my<strong> Passion for coding</strong>  and dedication to self-improvement have brought me far and I can't wait to see what the future holds! 🌈🔥</p>
-
-<p>So there you have it, Gaurav Gupta, the MERN Maestro, the Code Conjurer, the<strong> Problem-Solving</strong>  Prodigy, and the Chess Champion. With my quick mind and determined spirit, I'm destined to leave an indelible mark on the digital realm. Watch out, world, for this coding dynamo is just getting started! 💪✨</p>
-
-
-
-<br />
-<br />
-<h3>🔧 Tech Stack Mastery: Tools, Frameworks, and Languages Commanded</h3>
-<br/>
 <p align="center">
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-          
-                 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&text=Gaurav%20Gupta&fontSize=48&subtext=Full%20Stack%20%7C%20Distributed%20Systems%20%7C%20High-Throughput%20Architecture&subfontSize=18&height=180&section=header" width="100%" alt="Header" />
 </p>
 
- <br />         
-<h3>👨‍💻 Experience<bold>||</bold>📂 Work Samples</h3>
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-gupta-b47a85185/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gaugav14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
 
-    🕵️‍♀️ Selenium + Java = UI testing ninja! Bugs didn't stand a chance! 💥
+I am a Senior Full-Stack & Distributed Backend Engineer[cite: 1] focused on designing highly scalable, secure, and event-driven architectures capable of handling massive throughput[cite: 1]. My journey into programming started in my 12th standard when I built a basic banking application in Python[cite: 1]. Driven by a deep-rooted love for mathematics and the strategic complexities of chess[cite: 1], I transitioned that analytical mindset into software engineering[cite: 1]. 
 
-    🚀 Rest Assured + Java = API testing maestro! Unleashed the power of smooth and reliable APIs! 🎉
+Today, I specialize in the MERN stack and Next.js, building sub-millisecond query caches, asynchronous data pipelines, and zero-trust web platforms[cite: 1]. Whether it is architecting an end-to-end system for 1 million requests per second or locking down endpoints against OWASP vulnerabilities, I treat backend engineering as the ultimate puzzle[cite: 1].
 
-    🌐 Restful API's: Explored their depths like a digital Indiana Jones! No endpoint left untested! 🔎
+## 💼 Professional Experience & Projects
 
-    🐙 Git, Github, and Jenkins: My superhero trio! Automated deployments with precision and flair! 🦸‍♀️
+**Trigyn Technologies (Deputed to NeGD) | Senior Software Developer** (Mar 2026 - Present)[cite: 1]
+* Implemented a monorepo architecture with shared backend libraries and build workflows across inter-ministerial government projects[cite: 1].
+* Engineered secure government workflows by integrating Darpan endpoints and configuring Parichay Single Sign-On (SSO) directly into an Express.js ecosystem.
+* Cut API latency and read loads significantly utilizing Redis caching and query optimization[cite: 1].
+* Hardened platform security via data encryption, OWASP mitigation, and vulnerability patching to meet stringent government standards[cite: 1].
 
-    🎭 MounteBank: My mischievous sidekick! Mocking minions exposed system vulnerabilities, bugs trembled! 😈
+**Register Karo | Full Stack Developer** (Aug 2023 - Feb 2026)[cite: 1]
+* Built scalable web portals and administrative dashboards leveraging Next.js and the MERN stack[cite: 1].
+* Engineered Kafka and RabbitMQ pipelines for asynchronous processing and robust event-based workflows[cite: 1].
+* Orchestrated application deployments on AWS utilizing Docker, Kubernetes, and Jenkins CI/CD[cite: 1].
 
+**InCred Financial Services Ltd | Software Engineer** (Apr 2021 - Jun 2023)[cite: 1]
+* Developed a high-performance fintech application utilizing Next.js and the MERN ecosystem[cite: 1].
+* Managed automated data workflows with Airflow DAGs and orchestrated containerized AWS environments[cite: 1].
+* Integrated AWS Lambda services and utilized Kibana for extensive data visualization and analysis[cite: 1].
 
-<h3>📈 GitHub History </h3>
-<br />
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-   
-   ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=pygau14&show_icons=true&theme=radical)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pygau14&langs_count=8&layout=compact)
+**Newton School | Coding Bootcamp Intern** (Oct 2021 - Apr 2022)[cite: 1]
+* Mastered Full Stack Web Development and DSA, building full-scale clones of Netflix and Amazon[cite: 1].
 
-<!---
-pygau14/pygau14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Featured Architecture & System Projects:**
+* **Mobile APK Backend Engine:** Designed, built, and deployed a comprehensive 50-API micro-architecture on Render to facilitate seamless integration workflows for mobile frontend applications. 
+* **Payhub Payment Gateway System:** Developed an event-driven microservices backend utilizing Node.js, Express, Kafka, and Redis to handle async transactions, refunds, and vendor settlements[cite: 1].
+* **Lula Live Streaming Platform:** Built a real-time event-driven backend supporting Socket.IO billing, Agora token auth, Firebase notifications, and Razorpay monetization[cite: 1].
+* **Zipline Courier App Backend:** Created order processing and real-time package tracking APIs utilizing Express.js, MySQL, and Multer[cite: 1].
+* **Frontend Web Apps:** Developed a nested commenting system ("I have a say") and an API-driven Lyrics application using HTML, CSS, and vanilla JavaScript[cite: 1].
+
+## 🛠️ Technical Architecture & Tools
+
+* **Core Backend & Languages:** Node.js, Express.js, Java, Python, TypeScript, JavaScript[cite: 1].
+* **Distributed Systems & Async:** Apache Kafka, RabbitMQ, Redis, Socket.IO[cite: 1].
+* **Databases & Data Tools:** PostgreSQL, MongoDB, MySQL, AWS DocumentDB[cite: 1].
+* **Frontend Ecosystem:** React, Next.js, Redux, HTML5, CSS3, Bootstrap, jQuery[cite: 1].
+* **DevOps, Cloud & MLOps:** AWS (S3, Lambda), Docker, Kubernetes, Jenkins, Airflow, FastAPI, Flask[cite: 1].
+* **Quality Assurance & Testing:** Selenium, Rest Assured, MounteBank, Postman, OAuth 2.0[cite: 1].
+
+## 📈 Metrics, Education & Achievements
+
+**Academic & Security Credentials:**
+* **Education:** Studied Electronics and Communication Engineering at HKBK College of Engineering (2016 - 2021) before pivoting full-time into software development, alongside intermediate studies at St Froebel School[cite: 1].
+* **Certifications:** *Ethical Security Practices for Web-Based Application* (Internshala) – Focused on XSS, SQL injection mitigation, robust auth protocols, and secure data encryption[cite: 1].
+* **Achievements:** State Level Math Olympiad Gold Medalist and competitive Chess participant[cite: 1].
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pygau14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gaurav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pygau14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
